@@ -1,5 +1,5 @@
-- 👋 Olá! Meu nome é Leonardo Detroz
-- 🌱 Learning DevOps
+- 👋 Hello! My name's Leonardo Detroz
+- 🌱 Learning DevOps, PHP and Python
 
 
 
